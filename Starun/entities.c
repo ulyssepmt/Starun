@@ -1,7 +1,5 @@
 #include "game.h"
 
-BOOL test = NULL;
-
 void DrawEnd(struct GAME *pGame, HBITMAP spaceship, HWND gameWindow, HDC hDC, HDC hDCMemoire, int playerScore) {
 
     HWND gameWin = FindWindow(pGame->ui.gameName, 0);
