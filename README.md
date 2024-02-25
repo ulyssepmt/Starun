@@ -4,7 +4,7 @@ Petit jeu codé en C utilisant les APIs Windows (GDI32) et la librairie OpenAL p
 
 L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de reconnaissance dans l'espace. Il doit avant cela affronter (les exploser ou les esquiver) les terribles aliens se mettant en travers de son chemin et obtenir un score supérieur égal 400. 
 
-Le jeu utilise deux threads principaux permettant de générer les textures des enemies (les aliens) et le joueur. Un autre thread est appelé quand la touche [c] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
+Le jeu utilise deux threads principaux permettant de générer les textures des enemies (les aliens) et le joueur. Un autre thread est appelé quand la touche [X] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). 
 
