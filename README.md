@@ -23,6 +23,7 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 # Crédits : 
 
 Bitmaps utilisés : macrovector (https://www.freepik.com/author/macrovector)
+
 Icon utilisé : goodstuffnononsense (https://goodstuffnononsense.com)
 
 
