@@ -8,7 +8,8 @@ Le jeu utilise deux threads principaux permettant de générer les textures des 
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). 
 
-![image](https://github.com/ulyssepmt/Starun/assets/89702597/6c3d8e74-af0e-4522-b419-fda7508e26a8)
+![image](https://github.com/ulyssepmt/Starun/assets/89702597/572063b4-9328-410a-9979-97ce7c35f1bd)
+
 
 
 
