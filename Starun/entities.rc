@@ -1,0 +1,37 @@
+#include "entities.h"
+#include "utils.h"
+
+IDB_IMAGE BITMAP DISCARDABLE "/BitmapEntities/player_entitie.bmp"
+
+IDB_IMAGE2 BITMAP DISCARDABLE "/BitmapEntities/enemy_entitie.bmp"
+
+IDB_IMAGE3 BITMAP DISCARDABLE "/BitmapEntities/earth_entitie.bmp"
+
+IDB_IMAGE4 BITMAP DISCARDABLE "/BitmapEntities/shot_entitie.bmp"
+
+IDB_IMAGE5 BITMAP DISCARDABLE "/BitmapEntities/explosion_entitie.bmp"
+
+IDB_IMAGE6 BITMAP DISCARDABLE "/BitmapEntities/heartpoint_entitie.bmp"
+
+IDB_IMAGE7 BITMAP DISCARDABLE "/BitmapEntities/hp1.bmp"
+
+IDB_IMAGE8 BITMAP DISCARDABLE "/BitmapEntities/hp2.bmp"
+
+IDB_IMAGE9 BITMAP DISCARDABLE "/BitmapEntities/coin.bmp"
+
+
+
+
+
+IDR_WAVE1 RCDATA "/Soundbox/music.wav"
+
+IDR_WAVE2 RCDATA "/Soundbox/explosion.wav"
+
+IDR_WAVE3 RCDATA "/Soundbox/youwin.wav"
+
+IDR_WAVE4 RCDATA "/Soundbox/gameover.wav"
+
+IDR_WAVE5 RCDATA "/Soundbox/eating.wav"
+
+
+
