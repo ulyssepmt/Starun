@@ -9,9 +9,9 @@ Le jeu utilise deux threads principaux permettant de générer les textures des 
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). Les développeurs C avec un niveau intermédiaire/correcte pourront penser que certaines parties du code ne suivent pas une logique correcte ou que le code n'est pas parfait (ce qui est fort probable). Si c'est le cas, n'hésitez pas à commenter dans l'onglet "issues" et je mettrais à jour le jeu ! 
 
-![image](https://github.com/ulyssepmt/Starun/assets/89702597/572063b4-9328-410a-9979-97ce7c35f1bd)
+![cap1](https://github.com/ulyssepmt/Starun/assets/89702597/8cf5e766-99b9-4756-a1ec-ccc73526b157)
 
-![image](https://github.com/ulyssepmt/Starun/assets/89702597/9f6539dc-4438-4105-89a9-a2f220735fc1)
+![cap2](https://github.com/ulyssepmt/Starun/assets/89702597/f09af13b-190d-42d1-a8a9-37671e44b05c)
 
 
 
