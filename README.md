@@ -10,7 +10,7 @@ Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la p
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). Les développeurs C avec un niveau intermédiaire/correcte pourront penser que certaines parties du code ne suivent pas une logique correcte ou que le code n'est pas parfait (ce qui est fort probable). Si c'est le cas, n'hésitez pas à commenter dans l'onglet "issues" et je mettrais à jour le jeu ! 
 
-UPDATE 22/03/24: 
+# UPDATE 22/03/24: 
 - Ajout des extras.
 - Ajout d'un boss au niveau 5.
 - Changements du score, le joueur doit ramasser des pièces au lieu d'abattre les aliens qui lui donnaient des points.
