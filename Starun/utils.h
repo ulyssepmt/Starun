@@ -10,11 +10,9 @@ void CleanUPResources(HWND hWND, HDC hDC, HDC hDCMem, HBITMAP hObject);
 
 void CleanUpGameScreen(HWND gameInterface, int xPos, int yPos, int wRectangle, int hRectangle);
 
+void ShowGameError(LPCSTR message);
 //void InitGameSound(struct GAME *pGame);
 
-void PlayGameSound(struct GAME *pGame, char* sound);
-
-void ShowGameError(LPCSTR message);
 #endif // UTILS_H
 
 
