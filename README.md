@@ -21,10 +21,10 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 - Corrections apportées au niveau des bugs graphiques.
 - Correction du code sur certaines parties illogiques.
 
-![cap1](https://github.com/ulyssepmt/Starun/assets/89702597/8cf5e766-99b9-4756-a1ec-ccc73526b157)
 
-![cap2](https://github.com/ulyssepmt/Starun/assets/89702597/f09af13b-190d-42d1-a8a9-37671e44b05c)
+![cap1](https://github.com/ulyssepmt/Starun/assets/89702597/36d6e675-848f-44c5-b7f1-885dd2a389cd)
 
+![cap2](https://github.com/ulyssepmt/Starun/assets/89702597/c6a3c420-7940-4fa6-94ac-6c0d8fb31245)
 
 
 
