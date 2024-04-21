@@ -25,7 +25,7 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 
 
 # Démo : 
-[UPDATED] [https://youtu.be/ZcdnBqL0IDY]
+[UPDATED] [[https://youtu.be/ZcdnBqL0IDY]](https://youtu.be/w2Jc2N13QQg)
 
 https://youtu.be/v-Lb9ldcQ7E
 
