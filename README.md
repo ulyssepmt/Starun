@@ -2,8 +2,8 @@
 
 (Mon premier) Petit jeu codé en C sur Code:Blocks, utilisant les APIs Windows (GDI32) et la librairie OpenAL pour la gestion des sons. 
 
-L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de reconnaissance dans l'espace. Il doit avant cela affronter (exploser ou esquiver) les terribles aliens et asteroids se mettant en travers de son chemin et ramasser des pièces qui lui redonneront des points de vie et augmenteront son score (ou pas ;)).  
-En effet, les aliens et asteroids percutant le joueur donne un malus de -1 pièce à ce dernier. La vitesse des aliens augmente à chaque niveau (en tout 5 avec un boss à la fin, 10 aliens par niveaux).  
+L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de reconnaissance dans l'espace. Il doit avant cela affronter (exploser ou esquiver) les terribles aliens et asteroids se mettant en travers de son chemin et ramasser des pièces qui lui redonneront des points de vie et augmenteront son score.  
+La vitesse des aliens augmente à chaque niveau (en tout 5 avec un boss à la fin, 10 aliens par niveaux).  
 
 Le jeu utilise cinq threads principaux permettant de générer les textures des enemis (les aliens, les extras (pièces et asteroids)), le joueur, le raffraichissment d'écran et la gestion du jeu. 
 Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
