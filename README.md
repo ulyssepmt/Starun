@@ -40,7 +40,7 @@ Bitmaps utilisés : macrovector (https://www.freepik.com/author/macrovector)
 
 Son de victoire : Lion Cookie Sounds (le reste des autres sons sont frees)
 
-Icon utilisé : goodstuffnononsense (https://goodstuffnononsense.com)
+Icon utilisée : goodstuffnononsense (https://goodstuffnononsense.com)
 
 
 
