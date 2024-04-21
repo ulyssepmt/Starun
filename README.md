@@ -22,9 +22,9 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 - Correction du code sur certaines parties illogiques.
 
 
-![cap1](https://github.com/ulyssepmt/Starun/assets/89702597/36d6e675-848f-44c5-b7f1-885dd2a389cd)
+![cap1](https://github.com/ulyssepmt/Starun/assets/89702597/363cbb32-a99c-4dc2-a466-225bd907dd7d)
 
-![cap2](https://github.com/ulyssepmt/Starun/assets/89702597/c6a3c420-7940-4fa6-94ac-6c0d8fb31245)
+![cap2](https://github.com/ulyssepmt/Starun/assets/89702597/c371fbf1-3efe-478c-ab2e-64c42766f5e5)
 
 
 
