@@ -6,11 +6,11 @@ L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de r
 La vitesse des aliens augmente à chaque niveau (en tout 5 avec un boss à la fin, 10 aliens par niveaux).  
 Si le joueur parvient vaincre le boss et arrive sur Terre, son score sera affiché avec un certain nombre d'étoiles : 
 
-3 -> Toutes les étoiles ont été ramassées.
+3 -> toutes les étoiles ont été ramassées.
 
-2 -> + Plus de la moitié des étoiles. 
+2 -> + plus de la moitié des étoiles. 
 
-1 -> Moins de la moitié.
+1 -> moins de la moitié.
 
 Le jeu utilise cinq threads principaux permettant de générer les textures des enemis (les aliens, les extras (pièces et asteroids)), le joueur, le raffraichissment d'écran et la gestion du jeu. 
 Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
