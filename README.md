@@ -10,7 +10,7 @@ Si le joueur parvient vaincre le boss et arrive sur Terre, son score sera affich
 
 2 -> + plus de la moitié des étoiles. 
 
-1 -> moins de la moitié.
+1 -> - de la moitié.
 
 Le jeu utilise cinq threads principaux permettant de générer les textures des enemis (les aliens, les extras (pièces et asteroids)), le joueur, le raffraichissment d'écran et la gestion du jeu. 
 Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
