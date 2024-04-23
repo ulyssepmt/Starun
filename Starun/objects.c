@@ -53,8 +53,7 @@ DWORD WINAPI DrawShots(LPVOID lparam) {
 
                 TransparentBlt(hDC, pGame->boss.x , pGame->boss.y, pGame->player.explosionBitmapInfos.bmWidth,
                                pGame->player.explosionBitmapInfos.bmHeight, hDCMemoire, 0, 0, pGame->player.explosionBitmapInfos.bmWidth, pGame->player.explosionBitmapInfos.bmHeight, SRCCOPY);
-                                TransparentBlt(hDC, pGame->boss.x , pGame->boss.y, pGame->player.explosionBitmapInfos.bmWidth,
-                               pGame->player.explosionBitmapInfos.bmHeight, hDCMemoire, 0, 0, pGame->player.explosionBitmapInfos.bmWidth, pGame->player.explosionBitmapInfos.bmHeight, SRCCOPY);
+                               
 
 
                 break;
@@ -659,13 +658,13 @@ void DrawEnd(struct GAME *pGame, HDC hDC, HDC hDCMemoire) {
 }
 
 /*
-La fonction ci-dessous devait afficher les textures du jeu avec une transparence appliquée sur la couleur noire.
-La fonction RefreshGameFrames permettait ainsi d'afficher la map du jeu (voir dossier "background_ideas") avec des textures découpées,
-rendant le tout épuré et plutôt pas mal.
-Malheuresement, le déplacement d'un bitmap laisse des traces derrière lui (précédente copie), donc assez dégeulasse.
-Je ne vois pas trop comment j'aurais pu résoudre ce problème même si en vrai, c'est peut être tout bête :/
+La fonction ci-dessous devait afficher les textures du jeu avec une transparence appliquÃ©e sur la couleur noire.
+La fonction RefreshGameFrames permettait ainsi d'afficher la map du jeu (voir dossier "background_ideas") avec des textures dÃ©coupÃ©es,
+rendant le tout Ã©purÃ© et plutÃ´t pas mal.
+Malheuresement, le dÃ©placement d'un bitmap laisse des traces derriÃ¨re lui (prÃ©cÃ©dente copie), donc assez dÃ©geulasse.
+Je ne vois pas trop comment j'aurais pu rÃ©soudre ce problÃ¨me mÃªme si en vrai, c'est peut Ãªtre tout bÃªte :/
 
-Déçu car c'est le seul et dernier challenge technique que je n'ai pas pu résoudre :(
+DÃ©Ã§u car c'est le seul et dernier challenge technique que je n'ai pas pu rÃ©soudre :(
 
 void DrawObject(HDC hDC, int xDest, int yDest, int wDest, int hDest, HDC hDCMemoire, int wSrc, int hSrc, COLORREF BKG) {
     RECT rect = { xDest, yDest, xDest + wDest, yDest + hDest/2 };
