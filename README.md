@@ -4,7 +4,7 @@
 
 L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de reconnaissance dans l'espace. Il doit avant cela affronter (exploser ou esquiver) les terribles aliens et asteroids se mettant en travers de son chemin et ramasser des pièces qui lui redonneront des points de vie et augmenteront son score.  
 La vitesse des aliens augmente à chaque niveau (en tout 5 avec un boss à la fin, 10 aliens par niveaux).  
-Si le joueur arrive à vaincre le boss et arriver sur Terre, son score sera affiché avec un certain nombre d'étoiles : 
+Si le joueur parvient vaincre le boss et arrive sur Terre, son score sera affiché avec un certain nombre d'étoiles : 
 3 -> Toutes les étoiles ont été ramassées.
 2 -> + Plus de la moitié des étoiles. 
 1 -> Moins de la moitié.
