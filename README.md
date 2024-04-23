@@ -29,7 +29,7 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 
 
 # Démo : 
-[UPDATED 21/04/2024] https://youtu.be/aVIG9fJuUqk
+[UPDATED 21/04/2024] https://youtu.be/j2Bocd59yA8
 
 https://youtu.be/v-Lb9ldcQ7E
 
