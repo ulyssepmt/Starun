@@ -12,7 +12,7 @@ Si le joueur parvient vaincre le boss et arrive sur Terre, son score sera affich
 
 1 -> - de la moitié.
 
-Le jeu utilise cinq threads principaux permettant de générer les textures des enemis (les aliens, les extras (pièces et asteroids)), le joueur, le raffraichissment d'écran et la gestion du jeu. 
+Le jeu utilise cinq threads principaux permettant de générer les textures des enemis (les aliens, les extras (pièces et asteroids)), le joueur, le raffraichissement d'écran et la gestion du jeu. 
 Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la possiblité au joueur d'abattre les ennemis. 
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). Les développeurs C avec un niveau intermédiaire/correct pourront penser que certaines parties du code ne suivent pas une logique correcte ou que le code n'est pas parfait (ce qui est fort probable). Si c'est le cas, n'hésitez pas à commenter dans l'onglet "issues" et je mettrais à jour le jeu ! 
