@@ -17,8 +17,8 @@ Un thread secondaire est appelé quand la touche [X] est utilisée, donnant la p
 
 Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant en avant la manipulation des structures de données et la gestion de la mémoire (éviter au maximum les leaks, etc). Les développeurs C avec un niveau intermédiaire/correct pourront penser que certaines parties du code ne suivent pas une logique correcte ou que le code n'est pas parfait (ce qui est fort probable). Si c'est le cas, n'hésitez pas à commenter dans l'onglet "issues" et je mettrais à jour le jeu ! 
 
-# UPDATE 23/04/24: 
-- Nerf de la vitesse des aliens (1.5->1.25 incrémentée de 1 / niveaux). 
+# UPDATE 24/04/24: 
+- Nerf de la vitesse des aliens (1.5->1.0 incrémentée de 1 / niveaux). 
 - Les obstacles percutés ne donnent plus de malus.
 - Correction d'un bug lié à la saisie de l'utilisateur après avoir été éliminé. 
 
@@ -37,7 +37,7 @@ Ce projet fût un défi personnel (même si cela ne paraît pas énorme) mettant
 
 
 # Démo : 
-[UPDATED 23/04/2024] https://youtu.be/j2Bocd59yA8
+[UPDATED 24/04/2024] https://youtu.be/HYoiNyvPljk
 
 https://youtu.be/v-Lb9ldcQ7E
 
