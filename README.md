@@ -1,5 +1,8 @@
 # Starun 👾
 
+#Pré-requis/required lib : 
+https://www.openal.org/downloads/
+
 (Mon premier) Petit jeu codé en C sur Code:Blocks, utilisant les APIs Windows (GDI32) et la librairie OpenAL pour la gestion des sons. 
 
 L'objectif pour le joueur consiste à rejoindre la Terre lors d'une mission de reconnaissance dans l'espace. Il doit avant cela affronter (exploser ou esquiver) les terribles aliens et asteroids se mettant en travers de son chemin et ramasser des pièces qui lui redonneront des points de vie et augmenteront son score.  
