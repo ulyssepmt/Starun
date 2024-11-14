@@ -1,6 +1,6 @@
 # Starun 👾
 
-#Pré-requis/required lib : 
+# Pré-requis/required lib : 
 https://www.openal.org/downloads/
 
 (Mon premier) Petit jeu codé en C sur Code:Blocks, utilisant les APIs Windows (GDI32) et la librairie OpenAL pour la gestion des sons. 
